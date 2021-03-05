@@ -44,7 +44,7 @@
     "bcryptjs": "2.4.3",
     "bluebird": "3.5.1",
     "body-parser": "1.18.2",
-    "cookie-parser": "1.4.3",
+    "cookie-parser": "1.4.5",
     "cos-nodejs-sdk-v5": "2.4.10",
     "debug": "3.1.0",
     "diff-match-patch": "1.0.1",

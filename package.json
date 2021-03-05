@@ -50,7 +50,7 @@
     "diff-match-patch": "1.0.1",
     "express": "4.16.3",
     "extract-zip": "1.6.6",
-    "formidable": "1.2.1",
+    "formidable": "1.2.2",
     "fs-extra": "7.0.0",
     "helmet": "3.12.0",
     "i18n": "0.8.3",

@@ -42,7 +42,7 @@
     "aliyun-sdk": "1.11.10",
     "aws-sdk": "2.211.0",
     "bcryptjs": "2.4.3",
-    "bluebird": "3.5.1",
+    "bluebird": "3.7.2",
     "body-parser": "1.18.2",
     "cookie-parser": "1.4.3",
     "cos-nodejs-sdk-v5": "2.4.10",

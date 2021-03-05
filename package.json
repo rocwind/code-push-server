@@ -46,7 +46,7 @@
     "body-parser": "1.18.2",
     "cookie-parser": "1.4.3",
     "cos-nodejs-sdk-v5": "2.4.10",
-    "debug": "3.1.0",
+    "debug": "3.2.7",
     "diff-match-patch": "1.0.1",
     "express": "4.16.3",
     "extract-zip": "1.6.6",

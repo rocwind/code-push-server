@@ -45,7 +45,7 @@
     "bluebird": "3.5.1",
     "body-parser": "1.18.2",
     "cookie-parser": "1.4.3",
-    "cos-nodejs-sdk-v5": "2.4.10",
+    "cos-nodejs-sdk-v5": "2.9.19",
     "debug": "3.1.0",
     "diff-match-patch": "1.0.1",
     "express": "4.16.3",
